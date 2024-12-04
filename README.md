@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Me gusta aprender nuevos temas sobre Ciberseguridad y desarrollo de software.\
-🎓 &nbsp;Actualmente estudio Ingeniería de Software en la [Universidad Peruana de Ciencias Aplicadas] (https://www.upc.edu.pe/):\
+🎓 &nbsp;Actualmente estudio Ingeniería de Software en la [Federation University](https://federation.edu.au), Australia.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Ethical Hacking, Base de Datos y Ciberseguridad.\
 ✍️ &nbsp;En mi tiempo libre creo contenido de aprendizaje, tomo cursos y suelo jugar videojuegos.
 
