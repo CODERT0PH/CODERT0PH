@@ -12,7 +12,7 @@
 ✍️ &nbsp;En mi tiempo libre creo contenido de aprendizaje, tomo cursos y suelo jugar videojuegos.
 
 <br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/CODERT0PH/CODERT0PH/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,8 +27,8 @@
 
 <p align="center">
 <a href="[https://github.com/CODERT0PH]">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CODERT0PH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CODERT0PH&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -45,4 +45,4 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+Credits: [Aditya Vikram Singh](https://github.com/CODERT0PH)
