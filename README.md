@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm CODERTOPH</a></h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CODERT0PH&label=Profile%20views&color=0e75b6&style=flat" alt="CODERT0PH" /> </p>
   
 ### 👨🏻‍💻 &nbsp;About Me
 
