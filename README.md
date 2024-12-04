@@ -15,13 +15,6 @@
 <br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/CODERT0PH/CODERT0PH/master/assets/Night-Coding.gif" align="right"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/christoper-steven-rivas-castillo-a16762322/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christoper-steven-rivas-castillo" height="30" width="40" />
-  </a>
-</p>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -39,6 +32,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CODERT0PH&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br><br><br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
